@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1725156369343,
+      "tag": "0000_loving_strong_guy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725156728747,
+      "tag": "0001_black_alex_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1725157168521,
+      "tag": "0002_fine_slayback",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1725286769945,
+      "tag": "0003_lethal_rhodey",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1725324407344,
+      "tag": "0004_noisy_gabe_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1725387519597,
+      "tag": "0005_cooing_arachne",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1725479041403,
+      "tag": "0006_luxuriant_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1725500318673,
+      "tag": "0007_dashing_fenris",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1726493225095,
+      "tag": "0008_hesitant_namorita",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1726493623631,
+      "tag": "0009_exotic_vulture",
+      "breakpoints": true
+    }
+  ]
+}

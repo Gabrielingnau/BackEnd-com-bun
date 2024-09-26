@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  postgres:
+    container_name: food_home
+    image: bitnami/postgresql
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRESQL_USERNAME=Gabriel
+      - POSTGRESQL_PASSWORD=Gabriel102921
+      - POSTGRESQL_DATABASE=FoodHome
+    volumes: 
+      - food_home_data:/bitname/postgresql
+
+volumes:
+   food_home_data:
